@@ -11,7 +11,7 @@
     <br/>
     University of Pireaus, Piraeus
 
--   🔭 I’m currently working on **completing my postgraduate thesis**, details coming soon!
+-   🔭 I’m currently working on fun new projects, such as the **Runnerz Application**, to sharpen my skills in full-stack web development!
 
 -   My personal Website: <a  href="https://gantoniadis.netlify.app" target="_blank">is here!</a>
 
